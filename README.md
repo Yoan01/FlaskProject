@@ -19,6 +19,8 @@ Cloner le projet :
 git clone https://github.com/flaskProject.git
 cd flaskProject
 
+changer le nom d'utilisateur dans docker-stack.yml
+
 Se connecter à Docker Hub (si besoin) :
 
 docker login
